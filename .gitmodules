@@ -1,0 +1,6 @@
+[submodule "Project/FoodGuard-backend"]
+	path = Project/FoodGuard-backend
+	url = https://github.com/HarshSB24/FoodGuard-backend.git
+[submodule "Project/FoodGuard-frontend"]
+	path = Project/FoodGuard-frontend
+	url = https://github.com/HarshSB24/FoodGuard-frontend.git
